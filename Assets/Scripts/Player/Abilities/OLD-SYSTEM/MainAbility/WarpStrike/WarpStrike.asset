@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5426776fe5f22c34a9bf87e282cbfbad, type: 3}
+  m_Name: WarpStrike
+  m_EditorClassIdentifier: 
+  className: Warp Strike
+  subAbilityCooldown: 3
+  subAbilityDamage: 50
+  subGameObj: {fileID: 8204810236172682806, guid: 6e45454666afd7f4eb966f07e2fa771e,
+    type: 3}
+  subAbilityRange: 0
+  throwForce: 50
+  damage: 200

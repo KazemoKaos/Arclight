@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 480e6d3e7f43a0048bf53092aa07aca0, type: 3}
+  m_Name: SecondaryLoot
+  m_EditorClassIdentifier: 
+  lootObject: {fileID: 4650076075642844040, guid: 8544493af52e77d4f8a99da07c8eb1e7,
+    type: 3}
+  lootName: Secondary Ammo Box
+  lootSprite: {fileID: 0}
+  lootCost: 0
+  lootRarity: 0

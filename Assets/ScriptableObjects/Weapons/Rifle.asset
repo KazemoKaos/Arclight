@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ee11cf2be7c942489a1147218da4f9b, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  weaponName: Basic Rifle
+  projectile: {fileID: 1592472882495074312, guid: df181499ae0dd0840b315987175d76f0,
+    type: 3}
+  weaponImage: {fileID: 21300000, guid: 395e5dbe3bd43ff4990c49da5e07390a, type: 3}
+  weaponAnimations: {fileID: 22100000, guid: 5ce26a877f06a9244936332b81756075, type: 2}
+  playerAnimations: {fileID: 22100000, guid: 9be40a39929828144ba799f9e8c1dbd7, type: 2}
+  attackClips:
+  - {fileID: 8300000, guid: 66dec1c6b0c5071428568bb53ff4a2cc, type: 3}
+  - {fileID: 8300000, guid: dda71c892cea23a48ba196a356e94566, type: 3}
+  magOut: {fileID: 8300000, guid: 16f5b6953ebc76441b20e857eef397a5, type: 3}
+  magIn: {fileID: 8300000, guid: 29084674500268148bb869f98c16be7f, type: 3}
+  reloadFull: {fileID: 0}
+  weaponPosition: {x: 0.541, y: -0.0053, z: -0.0352}
+  weaponRotation: {x: 0.5600059, y: 96.496, z: 72.979}
+  baseDamage: 25
+  critDamage: 40
+  reloadSpeed: 50
+  adsSpeed: 25
+  readySpeed: 40
+  recoilAmount: {x: 15, y: 5}
+  range: 60
+  rateOfFire: 720
+  magazineSize: 30
+  fullAuto: 1
+  zoomAmount: 40
+  projectileForce: 600
+  ammoType: 0
+  weaponPerks: []

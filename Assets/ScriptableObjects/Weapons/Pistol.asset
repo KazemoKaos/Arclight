@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ee11cf2be7c942489a1147218da4f9b, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  weaponName: Pistol
+  projectile: {fileID: 1592472882495074312, guid: df181499ae0dd0840b315987175d76f0,
+    type: 3}
+  weaponImage: {fileID: 0}
+  weaponAnimations: {fileID: 22100000, guid: 39e3de79ec77eef488040fa796a7402b, type: 2}
+  playerAnimations: {fileID: 22100000, guid: ca8be9558411568479444dd70d3be7bf, type: 2}
+  attackClips:
+  - {fileID: 8300000, guid: 7c06a972e56ec3e489724a22b48c5bac, type: 3}
+  magOut: {fileID: 8300000, guid: 16f5b6953ebc76441b20e857eef397a5, type: 3}
+  magIn: {fileID: 8300000, guid: 29084674500268148bb869f98c16be7f, type: 3}
+  reloadFull: {fileID: 0}
+  weaponPosition: {x: 0.2987, y: -0.0594, z: 0.0322}
+  weaponRotation: {x: 13.523891, y: 96.19483, z: 74.077545}
+  baseDamage: 25
+  critDamage: 40
+  reloadSpeed: 60
+  adsSpeed: 15
+  readySpeed: 70
+  recoilAmount: {x: 40, y: 40}
+  range: 55
+  rateOfFire: 220
+  magazineSize: 12
+  fullAuto: 0
+  zoomAmount: 40
+  projectileForce: 600
+  ammoType: 0
+  weaponPerks: []

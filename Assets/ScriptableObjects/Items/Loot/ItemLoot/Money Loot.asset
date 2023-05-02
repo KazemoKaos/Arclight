@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 480e6d3e7f43a0048bf53092aa07aca0, type: 3}
+  m_Name: Money Loot
+  m_EditorClassIdentifier: 
+  lootObject: {fileID: 2766804175904900238, guid: edaaa17f5a142d441ac7298e1ef93215,
+    type: 3}
+  lootType: 2
+  lootName: Money
+  lootSprite: {fileID: 0}
+  lootCost: 0
+  lootRarity: 0

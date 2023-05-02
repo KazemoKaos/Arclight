@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 624a6d18f02460b41b35d70fab9f223a, type: 3}
+  m_Name: TestGrenade
+  m_EditorClassIdentifier: 
+  grenadeName: Test
+  grenadeCooldown: 3
+  grenadeDamage: 125
+  throwSpeed: 10
+  detonationTime: 1.5
+  blastRadius: 5
+  grenadeObj: {fileID: 1007712653155418719, guid: b0837493a00ae3a4e80f01277129518d,
+    type: 3}

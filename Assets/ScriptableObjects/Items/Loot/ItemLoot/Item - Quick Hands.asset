@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 480e6d3e7f43a0048bf53092aa07aca0, type: 3}
+  m_Name: Item - Quick Hands
+  m_EditorClassIdentifier: 
+  lootObject: {fileID: 7057808216828437455, guid: 1197cf0815a205d44bd82eb9304bd275,
+    type: 3}
+  lootType: 1
+  lootName: Quick Hands
+  lootSprite: {fileID: 0}
+  lootCost: 0
+  lootRarity: 0
