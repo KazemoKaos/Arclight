@@ -9,4 +9,3 @@ Desktop Build: https://bit.ly/3HC0vfx
 ![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1103133249049464853/image.png)
 ![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1103133252442673222/image.png)
 ![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1103133283576983774/image.png)
-![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1103135930304434226/Poster-_1_.png)
