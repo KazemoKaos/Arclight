@@ -1,8 +1,6 @@
-# Arclight
+# Arclight | 3D Roguelite | Developed in Unity
 
 Description:
-
-3D Roguelite | Developed in Unity
 
 Spawn with a weapon, navigate the area, and eliminate enemies to earn currency. Spend this currency at chests or with the Shop Keeper to acquire buffs and stackable items.
 
