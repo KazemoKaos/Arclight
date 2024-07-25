@@ -20,14 +20,21 @@ Final Report: https://drive.google.com/file/d/1limCjR5LKhUX_CO9Dd27I6zueMsEC0qV/
 
 Features:
 
-* First-Person Character Controller
-* Enemy AI
+* First-Person Character Controller:
+  * Weapon, Abilities, Player Configuration
+    
+* Enemy AI:
+  * Mobs, Bosses
+    
 * Systems:
   * Core:
       * Time, Currency, Difficulty, Loot Drops, Ammo Drops, Game Configuration, Shop System
+        
   * Inventory, Loot, Spawn, Stackable Items
+    
   * Procedural Generation:
       * Weapons & Levels
+        
   * Interaction:
       * Shopkeeper, Chests, Teleporter
    
