@@ -1,7 +1,5 @@
 # Arclight | 3D Roguelite | Developed in Unity
 
-Description:
-
 Spawn with a weapon, navigate the area, and eliminate enemies to earn currency. Spend this currency at chests or with the Shop Keeper to acquire buffs and stackable items.
 
 Teleport to the Final Boss room and defeat the boss to advance to the next level. Repeat the process until you are eliminated.
